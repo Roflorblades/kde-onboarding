@@ -11,7 +11,7 @@ Richtet einmalig nach einer frischen KDE-Installation Desktop-Verknüpfungen, We
    ```
 2. Skript ausführen (**nicht** als `root`):
    ```bash
-   python3 onboarding.py
+   python3 kde-onboarding.py
    ```
 
 ## Funktionsweise
@@ -25,5 +25,5 @@ Richtet einmalig nach einer frischen KDE-Installation Desktop-Verknüpfungen, We
 
 * `--force` erzwingt die Ausführung, selbst wenn der Marker bereits existiert:
   ```bash
-  python3 onboarding.py --force
+  python3 kde-onboarding.py --force
   ```
