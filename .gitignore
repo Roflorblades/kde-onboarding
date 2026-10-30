@@ -1,6 +1,7 @@
 
 .env
 *.odt
+*.txt
 
 icons/*
 !icons/.gitkeep
